@@ -5,9 +5,11 @@
 *.pdb
 *.lastbuildstate
 *.recipe
-*.inf
 *.cer
 *.sys
+*.exp
+*.res
+*.user
 .vs
 
 # Prerequisites
@@ -27,6 +29,7 @@
 *.so
 *.dylib
 *.dll
+*.lib
 
 # Fortran module files
 *.mod
